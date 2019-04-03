@@ -1,0 +1,1 @@
+# inspirationalquotegeneratorv1
