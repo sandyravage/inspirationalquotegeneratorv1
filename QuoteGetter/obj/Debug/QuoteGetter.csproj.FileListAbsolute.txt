@@ -1,0 +1,11 @@
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\bin\Debug\QuoteGetter.exe.config
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\bin\Debug\QuoteGetter.exe
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\bin\Debug\QuoteGetter.pdb
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\obj\Debug\QuoteGetter.csprojAssemblyReference.cache
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\obj\Debug\QuoteGetter.csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\obj\Debug\QuoteGetter.exe
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\obj\Debug\QuoteGetter.pdb
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TEVERTS\source\repos\QuoteGetter\QuoteGetter\obj\Debug\QuoteGetter.csproj.CopyComplete
