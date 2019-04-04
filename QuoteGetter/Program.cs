@@ -52,7 +52,8 @@ namespace QuoteGetter
             //}
             //File.WriteAllText(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "output.txt"), export.ToString());
             string all = File.ReadAllText(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "output.txt"));
-            string[] quotes = all.Split('@');
+            string[] separatingChars = { "~Delimiter~" };
+            string[] quotes = all.Split(separatingChars, System.StringSplitOptions.RemoveEmptyEntries);
             var newsen = new List<string>();
             List<Word> words = new List<Word>();
             foreach (var q in quotes)
@@ -64,7 +65,7 @@ namespace QuoteGetter
                     var sb2 = new StringBuilder();
                     foreach (char c in sen[j])
                     {
-                        if (!char.IsPunctuation(c))
+                        if (!char.IsPunctuation(c) || c == '\'')
                         {
                             sb2.Append(c);
                         }
